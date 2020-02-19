@@ -1,4 +1,5 @@
-# assignment-2
+# assignment-2 : B.tech CSE 1st Year Batch (session 2019-2020)
+# GLAU TND
 use python3 for all solutions 
 
 # Problem 1
